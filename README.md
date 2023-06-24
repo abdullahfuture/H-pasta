@@ -4,4 +4,4 @@ today's present is :  extension called `One Dark Pro` search in vscode by the na
 
 ##benefit 
 
-this extension make your vscode dark and you can change the degree of the dark
+this extension make your vscode dark and you can change the degree of the dark and this will be find for your eyes
