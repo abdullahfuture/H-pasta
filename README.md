@@ -1,31 +1,3 @@
-![Application screenshot](./assets/screenshot.png)
+# good pasta restaurant 
 
-[Pastacosi Restaurant](https://pastacosi.netlify.app) is a simple, modern and responsive website for restaurants, made with Bootstrap.
-
-# Live Preview:
-
-Link: https://pastacosi.netlify.app
-
-# Install
-
-- Clone the repository:
-
-```bash
-git clone https://github.com/AouintiAhmed/bootstrap-restaurant-app.git
-```
-
-- Open **`index.html`** in your browser, and enjoy !
-
-# Used libraries
-
-- JavaScript
-- CSS
-- Bootstrap5
-- Bootstrap-icons
-- Swiper
-- Isotope
-- Animate.css
-
-## Todos
-
-- [ ] Implement back-end project for food ordering, delivery, and booking tables.
+today's present is :  extension called `One Dark Pro` search in vscode by the name  or you can download it from [Google Chrome](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
